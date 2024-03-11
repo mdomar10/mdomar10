@@ -1,4 +1,5 @@
-### Hi there 👋
+### Web dev enthusiat/robotics lover
+Hey there, I am just a web developer that loves to make websites that are useful and aesthetic looking at the same time. Robotics , AI, ML also interests me.
 
 <!--
 **mdomar10/mdomar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

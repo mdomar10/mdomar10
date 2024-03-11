@@ -1,20 +1,5 @@
-Web dev enthusiat/robotics lover
-Hey there, I am just a web developer that loves to make websites that are useful and aesthetic looking at the same time. Robotics , AI, ML also interests me.
 
-<!--
-**mdomar10/mdomar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # mdomar10
 
 **`Web dev enthusiat/robotics lover`**
@@ -46,7 +31,7 @@ Hey there, I am just a web developer that loves to make websites that are useful
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdomar10&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
